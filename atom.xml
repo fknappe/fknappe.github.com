@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Geek Inside]]></title>
+  <link href="http://fknappe.github.com/atom.xml" rel="self"/>
+  <link href="http://fknappe.github.com/"/>
+  <updated>2012-05-01T23:22:44-03:00</updated>
+  <id>http://fknappe.github.com/</id>
+  <author>
+    <name><![CDATA[Felipe Knappe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
